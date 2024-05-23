@@ -1,4 +1,4 @@
-name: Github to AWS CodeCommit Sync
+name: Sync Github to AWS CodeCommit
 description: 'Synchronize from GitHub to CodeCommit via GitHub Actions using IAM credentials.'
 author: 'tsgit18'
 branding:
